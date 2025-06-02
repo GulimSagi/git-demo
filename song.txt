@@ -1,2 +1,4 @@
 hello darling how r u?
 well It is a test file so Im just checking
+checking is homebrew is working or not 
+why it is not working huh?
