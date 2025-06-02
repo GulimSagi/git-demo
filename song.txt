@@ -2,3 +2,8 @@ hello darling how r u?
 well It is a test file so Im just checking
 checking is homebrew is working or not 
 why it is not working huh?
+well i tried to use git checkout . and clean -xdf so it works 
+and i need to commit this comments to git, well good luck 
+well then lets try to roll back 
+now im trying reset 
+well now i tried to use reset
