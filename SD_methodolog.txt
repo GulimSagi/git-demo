@@ -1,0 +1,7 @@
+1. Waterfall
+	a. analysis (requirements)-what need to be done/what customer wants
+	b.design (architecture, DB design, prototype)
+	c.development (coding) 
+	d.testing(testing, test prep, test&issues, concl about quality)
+	e.release&maintenance (app delivery, user acceptance, maintenance, support)
+Waterfall 1st process model, expensive. Only use when all doc are exist. 
