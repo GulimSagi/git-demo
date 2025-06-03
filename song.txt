@@ -13,3 +13,6 @@ trying head
 well testing non fast forward 
 
 next station is about TAG
+
+next thing is to work with stash 
+i create a new file and will work on it , without changing the main song file
