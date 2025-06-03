@@ -5,3 +5,23 @@
 	d.testing(testing, test prep, test&issues, concl about quality)
 	e.release&maintenance (app delivery, user acceptance, maintenance, support)
 Waterfall 1st process model, expensive. Only use when all doc are exist. 
+
+2.Agile
+	tells not what to do, tells how to do a work. 
+	working software valued over comprehensive document.
+	customer collaboration over contract negotiat.
+	responding to change, quickly respon to changes, over following a plan. 
+	
+	Principles:
+	1, the high priority is to satisfy the custm through early and contin delivery
+	2, welcome changing requirements
+	3, deliver working software frequently (form a couple of weeks to a months)
+	4, Business people and devs must work 2gether daily 
+	5, Build projects around motivated individs. 
+	6, method of conveying info to and within a devteam is face2face.
+	7,Working soft is key factor of measuring progress (how many features added, KPI)
+	8,Agile processes promote sustainable development.
+	9,Cont. attention to tech excellence and good design
+	10, Simplicity is essential
+	11, Self org team
+	12,
