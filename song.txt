@@ -9,3 +9,5 @@ now im trying another path
 -b feature
 
 trying head 
+
+well testing non fast forward 
