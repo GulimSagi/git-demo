@@ -2,3 +2,8 @@ hello darling how r u?
 well It is a test file so Im just checking
 checking is homebrew is working or not 
 why it is not working huh?
+
+prev i tried func reset and revert 
+also rollback, checkout head, mixed so on
+now im trying another path 
+-b feature
