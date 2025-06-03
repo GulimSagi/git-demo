@@ -7,3 +7,5 @@ prev i tried func reset and revert
 also rollback, checkout head, mixed so on
 now im trying another path 
 -b feature
+
+trying head 
