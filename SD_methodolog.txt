@@ -25,3 +25,17 @@ Waterfall 1st process model, expensive. Only use when all doc are exist.
 	10, Simplicity is essential
 	11, Self org team
 	12,
+3.Scrum
+	Concept-based on sprints, short amount of time where u will decide what u will do and how (divide for smaller subtasks)
+	Product backlog -> sprint backlog ->2-4 weeks/more -> Shippable product
+	Scrum Elements: 
+		Roles (product owner(sets priorities, responsible for initial planning, plan from business side), scrum master(respond for ensuring scrum), Dev team (create product, cross-functional, 9no of people is ideal, no titles/ sub teams)
+		Events: 
+			Sprint Grooming (performed before sprint-ask questions to Prod Own, define how story can be developed and tested) 
+			Sprint Planning (usually performed on the 1st day of a sprint, break large assign into small, estimate how much time is estimate each task execution) 
+			Daily Scrum (brief meetings, standup for 10-15 min, where tells what did/will the team do, what obstacles are appeared)
+			Sprint Review/Demo (at the end of sprint when scope is ready, Dev/Tester demonstrates the work that was done, receives comment from ProdOwner)
+			Sprint Retrospective (What was done well, what could be done better, set timeline for changes, assign responsible person)
+		Artifacts (Product backlog(all desired features), sprint backlog, product increment?)
+Other Elements: Burndown chart
+
