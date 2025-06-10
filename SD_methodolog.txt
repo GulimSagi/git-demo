@@ -39,3 +39,10 @@ Waterfall 1st process model, expensive. Only use when all doc are exist.
 		Artifacts (Product backlog(all desired features), sprint backlog, product increment?)
 Other Elements: Burndown chart
 
+4.Kanban (simple than Scrum)
+todo, dev,test, release, done table. 
+good visual, more flex with scope, easy to start. 
+
+Suits for the teams: support product, have a lot changes in backlog during sprit, have dependences from other team (like separate back-end)
+
+
