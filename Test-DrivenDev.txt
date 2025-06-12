@@ -1,0 +1,8 @@
+->Red->Green->refactor->
+start with compiling the test->run and fail>get to a point where test will green
+Driven dev to create the test before coding
+Benefits that code is clean and readable, well designed
+Safe refactoring
+Decrease tech debt on the project
+Stable team velocity 
+Many teams report signif. reductions in defect rates
